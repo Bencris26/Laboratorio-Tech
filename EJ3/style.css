@@ -1,0 +1,25 @@
+
+ h1{
+ color: #d33434;
+font-size: 50 px ;
+border: 5px solid; 
+size: 50px; 
+ }
+
+p{
+color: black;
+font-size: larger;
+border: 5px solid;
+text-align: end;  
+size: 50px; 
+}
+
+img {
+ color: rgb(17, 80, 134);
+font-size: 80px;
+border: 5px solid;
+ width:  900px;
+height:500px;
+ }
+        
+   
